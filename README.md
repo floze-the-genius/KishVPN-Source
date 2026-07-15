@@ -7,10 +7,10 @@ distributed KISH VPN builds.
 
 - App version: `4.3.5`
 - Build: `202607141239`
-- Source commit: `470fdf01d5fba5630370befa1b77b8feca5c646e`
-- Canonical runtime base: `84af6df37bed2ba10777fea097079755d54546ec`
+- Source commit: `0ae96141254902db6b737e1bd1a7d193d8565ff6`
+- Canonical runtime base: `cb11a4e3116a702fa73f3b6c7e55df097ff5537d`
 - Source archive SHA-256:
-  `7aee3ca50ff32d4bc3d367f84fcda68336b42f9abd50ee63ccdd097d0c3e7438`
+  `8ae166cb64d3cfa7f8bc1b2bb11dd208ac0103502f75e7e29a459fa7e42d2e92`
 
 The tagged release contains:
 
